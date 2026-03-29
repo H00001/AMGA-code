@@ -1,1 +1,1 @@
-We are working on the source code and will release it as soon as possible.
+We are currently preparing the release version. Once it is ready, we will release it immediately.
